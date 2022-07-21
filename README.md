@@ -5,7 +5,7 @@
 
 **WELCOME TO DODGE BOMB!**
 
-A simple 2D platform game built using Phaser 3's webpack project template.
+A simple 2D platform game built using Phaser 3's Webpack project template.
 
 Collect as many stars as possible while jumping across platforms! Easy right? Just make sure to dodge the bombs ;)
 
